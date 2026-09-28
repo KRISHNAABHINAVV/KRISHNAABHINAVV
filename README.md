@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Krishna%20Abhinav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20App%20Developer%20%C2%B7%20FlutterFlow%20UI%20Designer&descAlignY=55&descSize=20" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:2c5364,100:00c9ff&amp;height=220&amp;section=header&amp;text=Krishna%20Abhinav&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Web%20%26%20App%20Developer%20%C2%B7%20FlutterFlow%20UI%20Designer&amp;descAlignY=55&amp;descSize=20" width="100%" alt="header banner"/>
 
 <a href="https://github.com/KRISHNAABHINAVV">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Krishna+Abhinav;Web+%26+App+Developer;FlutterFlow+UI+Designer;Building+AI-powered+health+%26+vision+apps;Always+chasing+the+next+hackathon" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=00C9FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Hi+there%2C+I'm+Krishna+Abhinav;Web+%26+App+Developer;FlutterFlow+UI+Designer;Building+AI-powered+health+%26+vision+apps;Always+chasing+the+next+hackathon" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=KRISHNAABHINAVV&label=Profile+Views&color=00c9ff&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/KRISHNAABHINAVV?label=Followers&style=for-the-badge&color=00c9ff&logo=github" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=KRISHNAABHINAVV&amp;label=Profile+Views&amp;color=00c9ff&amp;style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/KRISHNAABHINAVV?label=Followers&amp;style=for-the-badge&amp;color=00c9ff&amp;logo=github" alt="Followers"/>
 
 <br/><br/>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,cpp,java,react,nodejs,figma,git,github,vscode,python&theme=dark" alt="tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,cpp,java,react,nodejs,figma,git,github,vscode,python&amp;theme=dark" alt="tech stack icons"/>
 
 </div>
 
@@ -93,19 +93,12 @@ Solutions to classic problem sets, kept sharp across two languages.
 
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=KRISHNAABHINAVV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAABHINAVV&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/></td>
-</tr>
-</table>
-
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=KRISHNAABHINAVV&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KRISHNAABHINAVV&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KRISHNAABHINAVV&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies"/>
+<img src="https://streak-stats.demolab.com/?user=KRISHNAABHINAVV&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -115,8 +108,6 @@ Solutions to classic problem sets, kept sharp across two languages.
 <div align="center">
 <img src="https://raw.githubusercontent.com/KRISHNAABHINAVV/KRISHNAABHINAVV/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 </div>
-
-> Comes alive once you add `snake.yml` as a GitHub Action in this same repo — see the setup steps from before (the workflow file doesn't need any changes, it auto-detects your username).
 
 <br/>
 
@@ -130,4 +121,4 @@ Solutions to classic problem sets, kept sharp across two languages.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:0f2027&height=100&section=footer&reversal=true" width="100%" alt="footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00c9ff,100:0f2027&amp;height=100&amp;section=footer&amp;reversal=true" width="100%" alt="footer banner"/>
