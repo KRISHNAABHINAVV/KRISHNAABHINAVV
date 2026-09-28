@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:2c5364,100:00c9ff&amp;height=220&amp;section=header&amp;text=Krishna%20Abhinav&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Web%20and%20App%20Developer%20%C2%B7%20FlutterFlow%20UI%20Designer&amp;descAlignY=55&amp;descSize=20" width="100%" alt="header banner"/>
 
 <a href="https://github.com/KRISHNAABHINAVV">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=00C9FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Hi+there%2C+I'm+Krishna+Abhinav;Web+and+App+Developer;FlutterFlow+UI+Designer;Building+AI-powered+health+and+vision+apps;Always+chasing+the+next+hackathon" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=00C9FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Hi+there%2C+I'm+Krishna+Abhinav;Full+Stack+Developer;Computer+Science+Engineer;Building+AI-powered+websites+software+&+apps;Always+chasing+the+next+hackathon" alt="Typing SVG"/>
 </a>
 
 <br/>
