@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=todoist&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnaabhinavbusiness@gmail.com)
 
 </div>
 
@@ -117,7 +117,7 @@ Solutions to classic problem sets, kept sharp across two languages.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krishnaabhinavbusiness@gmail.com)
 
 </div>
 
